@@ -39,13 +39,13 @@ So now that we have established that burr grinders offer much better consistency
 
 Many entry-level grinders, almost all manual grinders and some very high end grinders use a conical burr set.
 
-![](images/image-1.png)
+![](/images/image-1.png)
 
 Conical burrs consist of two parts, a cone shaped burr is surrounded by a ring and the coffee is ground or 'crushed' in the space in between these two parts. The sharpness and overall geometry of the ridges on these burrs can make their host grinders either great for brewing espresso or specialize in grinding for manual brew methods.
 
 **Flat burrs**
 
-{{< figure src="images/image-2.png" caption="Flat burrs" >}}
+{{< figure src="/images/image-2.png" caption="Flat burrs" >}}
 
 Most espresso focused grinders come with a flat burr set. Unlike conical burrs, they are two metallic discs of the same size, one on top of the other. The space between the upper and lower disc determines the fineness of your ground coffee. Like conical burrs, the sharpness and geometry of flat burrs can either favour espresso fineness or make them more suitable for grinding coffee meant to be brewed manually.
 
