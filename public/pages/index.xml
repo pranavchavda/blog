@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Crema on Top - Brewing Espresso at Home</title>
+    <link>http://cremaontop.com/pages/</link>
+    <description>Recent content in Pages on Crema on Top - Brewing Espresso at Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 May 2021 17:49:46 +0000</lastBuildDate><atom:link href="http://cremaontop.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://cremaontop.com/pages/about/</link>
+      <pubDate>Mon, 31 May 2021 17:49:46 +0000</pubDate>
+      
+      <guid>http://cremaontop.com/pages/about/</guid>
+      <description>My name is Pranav and I am currently the sole author of this blog.
+My passion for home espresso brewing started several years ago, around the same time as I started my job at a company that retails equipment and roasts coffee. Everyone there is passionate about coffee, and why not? coffee is amazing!
+Now, After years of home espresso brewing, I decided to start this blog so I can share my passion about espresso with the world, as I continue to experiment with it and learn how to make great coffee.</description>
+    </item>
+    
+  </channel>
+</rss>
