@@ -1,7 +1,0 @@
-<h1 style="font-size: 2em" class="post-title">{{ .Title }}</h1>
-
-{{- if .Params.Image }}
-{{ $imagePath := .Params.image }}
-{{- $image := resources.Get $imagePath -}}
-<img src="{{ ($image.Fill "800x300 q95 Center webp photo").RelPermalink }}" />
-{{- end -}}
