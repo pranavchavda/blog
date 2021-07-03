@@ -1,0 +1,12 @@
+<h1 style="font-size: 2em" class="post-title">{{ .Title }}</h1>
+
+{{- if .Params.Image }}
+
+{{- end -}}
+{{ with .Resources.ByType "image" }}
+{{ range .}}
+
+{{ $chacha := .RelPermalink }}
+<img src="{{ $chacha }}">
+{{ end }}
+{{ end }}
