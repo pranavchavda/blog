@@ -8,11 +8,11 @@ Image = "images/cups.jpg"
 sluge ="shape-of-a-cup"
 summary = "New startups have come up recently that have launched uniquely shaped coffee glasses. These offerings from companies like Kruve and Icosa brewhouse claim they enhance the taste of your coffee. Let's investigate."
 tags = ["coffee-cup", "coffee-taste", "environment"]
-title = "How the Shape of a Cup or Glass Affects Coffees Taste"
+title = "How the Shape of a Cup or Glass Affects The Taste of Your Coffee"
 
 +++
 
-New startups have come up recently that have launched uniquely shaped coffee glasses. These offerings from companies like Kruve and Icosa brewhouse claim they enhance the taste of your coffee. Let's investigate.
+Offerings from companies like Kruve and Icosa brewhouse claim they enhance the taste of your coffee. Let's investigate.
 
 ## It is well-known that the shape of a glass affects the taste of a drink in it.
 Connoisseur of wines and spirits have long known that the shape of a glass can enhance the taste and sometimes even change it. It is fair to assume that this equally applies to coffee.
